@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {primitive-math {:mvn/version "0.1.4"}}}
